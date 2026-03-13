@@ -1,0 +1,6 @@
+../Core/Src/hcsr04_3.c:32:12:sensor_index_from_active_channel	16	static
+../Core/Src/hcsr04_3.c:40:6:HCSR04_3_Init	80	static
+../Core/Src/hcsr04_3.c:67:6:HCSR04_3_Trigger	16	static
+../Core/Src/hcsr04_3.c:84:10:HCSR04_3_GetDistance	16	static
+../Core/Src/hcsr04_3.c:89:9:HCSR04_3_IsDone	16	static
+../Core/Src/hcsr04_3.c:94:6:HCSR04_3_TIM_IC_Callback	32	static
