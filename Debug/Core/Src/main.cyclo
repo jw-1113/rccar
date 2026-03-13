@@ -1,0 +1,6 @@
+../Core/Src/main.c:60:6:HAL_TIM_IC_CaptureCallback	1
+../Core/Src/main.c:88:17:sanitize	3
+../Core/Src/main.c:93:13:AutoDrive_MaxDir	35
+../Core/Src/main.c:204:5:main	8
+../Core/Src/main.c:297:6:SystemClock_Config	3
+../Core/Src/main.c:340:6:Error_Handler	1
